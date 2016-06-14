@@ -11,7 +11,11 @@
 			<td style='width: 30%;'><img class = 'newappIcon' src='images/newapp-icon.png'>
 			</td>
 			<td>
+<<<<<<< HEAD
 				<h1 id = "message"><?php echo "IOTNguyen Start UP, Hello World!"; ?>
+=======
+				<h1 id = "message"><?php echo "Hello world!"; ?>
+>>>>>>> ce89b4cec3786a863e81382cce3d8b9e802d6bfb
 </h1>
 				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>. To get started see the Start Coding guide under your app in your dashboard.
 			</td>
