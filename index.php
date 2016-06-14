@@ -12,7 +12,7 @@
 			</td>
 			<td>
 
-				<h1 id = "message"><?php echo "IOTNguyen Start UP, Hello World!"; ?>
+				<h1 id = "message"><?php echo "IOTNguyen Start UP, Hello World! This the start up project, please checking and comment"; ?>
 
 				<h1 id = "message"><?php echo "Hello world!"; ?>
 
