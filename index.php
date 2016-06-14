@@ -21,8 +21,15 @@
 				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>. To get started see the Start Coding guide under your app in your dashboard.
 			</td>
 		</tr>
-        <form name="Start">Start<><br>
+        <form  name="Start">Start<><br>
             <button class="ledButton" type="button" id="3" onClick="buttonClick(this.id)">On</button>
+            <lable for="tempData" name="tempData" value="tempData">
+            <input style="text" name="tempData" id="tempData" value="tempData">
+            <label style="text" name="humiData" id="humiData" calue="humiData">
+            <input style="text" name="humiData" id="humiData" value="humiData">
+            <?php 
+                echo "Bang nguyen checking......
+                ?>
         </form><br>
 	</table>
 </body>
