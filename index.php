@@ -8,7 +8,7 @@
 <body>
 	<table>
 		<tr>
-			<td style='width: 30%;'><img class = 'newappIcon' src='images/newapp-icon.png'>
+			<td style='width: 30%;'><img class = 'newappIcon' src='images/vsk_greentura.png.png'>
 			</td>
 			<td>
 
