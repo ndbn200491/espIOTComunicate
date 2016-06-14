@@ -5,7 +5,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
-<body>
+<body> 
+
 	<table>
 		<tr>
 			<td style='width: 30%;'><img class = 'newappIcon' src='images/vsk_greentura.png.png'>
@@ -20,6 +21,9 @@
 				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>. To get started see the Start Coding guide under your app in your dashboard.
 			</td>
 		</tr>
+        <form name="Start">Start<><br>
+            <button class="ledButton" type="button" id="3" onClick="buttonClick(this.id)">On</button>
+        </form><br>
 	</table>
 </body>
 </html>
