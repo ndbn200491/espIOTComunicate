@@ -28,8 +28,8 @@
             <label style="text" name="humiData" id="humiData" calue="humiData">
             <input style="text" name="humiData" id="humiData" value="humiData">
             <?php 
-                echo "Bang nguyen checking......
-                ?>
+                echo "Bang nguyen checking......" ;
+               ?>
         </form><br>
 	</table>
 </body>
